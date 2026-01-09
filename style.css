@@ -279,7 +279,7 @@ body {
   background-color: #0b1d35;
   color: white;
   width: 1517px;
-  height: 348px;
+  height: 360px;
 }
 .footer-upper {
   display: flex;
@@ -309,4 +309,9 @@ body {
   text-align: center;
   margin-top: 10px;
   font-size: 16px;
+}
+body,
+html {
+  overflow-x: hidden;
+  width: 100%;
 }
