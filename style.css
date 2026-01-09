@@ -227,3 +227,41 @@ body {
   color: #627382;
   margin-bottom: 24px;
 }
+/* footer */
+#footer {
+  margin-top: 120px;
+}
+.footer-container {
+  background-color: #0b1d35;
+  color: white;
+  width: 1517px;
+  height: 348px;
+}
+.footer-upper {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 120px;
+  padding-bottom: 90px;
+  padding-left: 120px;
+  padding-right: 120px;
+}
+.footer-links h6 {
+  padding-bottom: 7px;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 28px;
+}
+.footer-links-image {
+  display: flex;
+  gap: 16px;
+}
+.footer-hr {
+  color: #2b3b4e;
+  width: 80%;
+  margin: 0 auto;
+}
+.footer-bottom p {
+  /* border: 5px solid red; */
+  text-align: center;
+  margin-top: 10px;
+}
